@@ -1,0 +1,8 @@
+{
+  "useSmtp": true,
+  "host": "zebrarobotics.com",              
+  "port": 465,													 
+  "username": "webinq@zebraroboticsindia.com",					 
+  "password": "zebra6635",						 
+  "recipientEmail":  "webinq@zebraroboticsindia.com"		 
+}
